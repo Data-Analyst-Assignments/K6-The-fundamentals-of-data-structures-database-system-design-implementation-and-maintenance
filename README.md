@@ -29,8 +29,7 @@ You must explain and provide examples for the following areas:
 - Tables and relationships (including **foreign keys**)
 - Choosing **correct data types**
 - Understanding and avoiding **anomalies** (Insert, Update, Delete)
-- Applying **normalisation** up to **Third Normal Form (3NF)**
-- <video width="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://github.com/Data-Analyst-Assignments/K6-The-fundamentals-of-data-structures-database-system-design-implementation-and-maintenance/blob/main/videoplayback.mp4)" controls></video>
+- <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Applying **normalisation** up to **Third Normal Form (3NF)** </a>
 
 ### Database Maintenance:
 - **Backups and recovery**
