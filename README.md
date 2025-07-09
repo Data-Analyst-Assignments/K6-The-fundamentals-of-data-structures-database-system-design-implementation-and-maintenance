@@ -30,8 +30,8 @@ You must explain and give examples for the following:
 ### Database Design and Implementation
 - Tables and relationships (including **foreign keys**)  
 - Choosing the **right data types**  
-- Understanding and avoiding **anomalies** (Insert, Update, Delete)  
-- Applying **normalisation up to Third Normal Form (3NF)** – <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Watch this video explanation</a>
+-  
+- Understanding and avoiding **anomalies** (Insert, Update, Delete) and applying **normalisation up to Third Normal Form (3NF)** – <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Watch this video explanation</a>
 
 ---
 
