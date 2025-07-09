@@ -30,6 +30,7 @@ You must explain and provide examples for the following areas:
 - Choosing **correct data types**
 - Understanding and avoiding **anomalies** (Insert, Update, Delete)
 - Applying **normalisation** up to **Third Normal Form (3NF)**
+- <video width="630" height="300" src="https://github.com/Data-Analyst-Assignments/K6-The-fundamentals-of-data-structures-database-system-design-implementation-and-maintenance/blob/main/videoplayback.mp4" controls></video>
 
 ### Database Maintenance:
 - **Backups and recovery**
