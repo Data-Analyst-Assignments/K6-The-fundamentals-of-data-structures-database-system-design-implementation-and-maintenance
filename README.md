@@ -31,7 +31,7 @@ You must explain and give examples for the following:
 - Tables and relationships (including **foreign keys**)  
 - Choosing the **right data types**  
 - Understanding and avoiding **anomalies** (Insert, Update, Delete)  
-- Applying **normalisation up to Third Normal Form (3NF)** – [Watch this video explanation](https://www.youtube.com/watch?v=GFQaEYEc8_8){:target="_blank"}
+- Applying **normalisation up to Third Normal Form (3NF)** – <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Watch this video explanation</a>
 
 ---
 
