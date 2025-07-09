@@ -28,9 +28,8 @@ You must explain and give examples for the following:
 ---
 
 ### Database Design and Implementation
-- Tables and relationships (including **foreign keys**)  
+- Tables and relationships (including **foreign keys**) - <a href="https://www.youtube.com/watch?v=8wUUMOKAK-c&t" target="_blank">Watch this video explanation</a>   
 - Choosing the **right data types**  
--  
 - Understanding and avoiding **anomalies** (Insert, Update, Delete) and applying **normalisation up to Third Normal Form (3NF)** – <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Watch this video explanation</a>
 
 ---
