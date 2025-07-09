@@ -17,27 +17,27 @@ You must explain and give examples for the following:
 
 ### Data Structures
 - **Linear Data Structures:**
-  - Arrays  
-  - Linked Lists  
-  - Stacks  
-  - Queues  
+  - Arrays  - <a href="" target="_blank">Watch this video explanation</a>
+  - Linked Lists  - <a href="" target="_blank">Watch this video explanation</a>
+  - Stacks  - <a href="" target="_blank">Watch this video explanation</a>
+  - Queues  - <a href="" target="_blank">Watch this video explanation</a>
 - **Non-linear Data Structures:**
-  - Trees  
-  - Graphs  
+  - Trees  - <a href="" target="_blank">Watch this video explanation</a>
+  - Graphs  - <a href="" target="_blank">Watch this video explanation</a>
 
 ---
 
 ### Database Design and Implementation
 - Tables and relationships (including **foreign keys**) - <a href="https://youtu.be/8wUUMOKAK-c?si=A7YNrYVGzYEkDAAR" target="_blank">Watch this video explanation</a>   
-- Choosing the **right data types**
+- Choosing the **right data types** - <a href="https://youtu.be/vprfHdz7FV4?si=wYH-Hy85gugqWBqc" target="_blank">Watch this video explanation</a>
 - Entity Relationship Diagrams - <a href="https://youtu.be/LowjDtiNlk4?si=oHOYrouMRqAU5cRO" target="_blank">Watch this video explanation</a>
 - Understanding and avoiding **anomalies** (Insert, Update, Delete) and applying **normalisation up to Third Normal Form (3NF)** – <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Watch this video explanation</a>
 
 ---
 
 ### Database Maintenance
-- **Backups and recovery**  
-- Managing **clean data vs. dirty data**
+- **Backups and recovery**  -  <a href="" target="_blank">Watch this video explanation</a>
+- Managing **clean data vs. dirty data** -  <a href="" target="_blank">Watch this video explanation</a>
 
 ---
 
