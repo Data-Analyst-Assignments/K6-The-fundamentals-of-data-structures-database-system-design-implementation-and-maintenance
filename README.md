@@ -6,78 +6,81 @@
 ---
 
 ## Aim  
-To demonstrate your understanding of how data is stored, organised, and maintained within a business environment. This task will assess your knowledge of data structures and how databases are designed, implemented, and kept accurate and secure.
+To demonstrate your understanding of how data is stored, organised, and maintained within a business setting. This task will assess your knowledge of data structures and how databases are designed, built, and kept accurate and secure.
 
 ---
 
 ## Learning Outcome – K6  
 **Understand the fundamentals of data structures, database system design, implementation and maintenance.**
 
-You must explain and provide examples for the following areas:
+You must explain and give examples for the following:
 
-### Data Structures:
-- **Linear Data Structures:**  
+### Data Structures
+- **Linear Data Structures:**
   - Arrays  
   - Linked Lists  
   - Stacks  
   - Queues  
-- **Non-linear Data Structures:**  
+- **Non-linear Data Structures:**
   - Trees  
   - Graphs  
 
-### Database Design and Implementation:
-- Tables and relationships (including **foreign keys**)
-- Choosing **correct data types**
-- Understanding and avoiding **anomalies** (Insert, Update, Delete)
-- <a href="https://www.youtube.com/watch?v=GFQaEYEc8_8" target="_blank">Applying **normalisation** up to **Third Normal Form (3NF)** </a>
+---
 
-### Database Maintenance:
-- **Backups and recovery**
+### Database Design and Implementation
+- Tables and relationships (including **foreign keys**)  
+- Choosing the **right data types**  
+- Understanding and avoiding **anomalies** (Insert, Update, Delete)  
+- Applying **normalisation up to Third Normal Form (3NF)** – [Watch this video explanation](https://www.youtube.com/watch?v=GFQaEYEc8_8){:target="_blank"}
+
+---
+
+### Database Maintenance
+- **Backups and recovery**  
 - Managing **clean data vs. dirty data**
 
 ---
 
 ## Task Overview  
-You are working as part of a team that manages business information systems. Your manager has asked you to prepare a report that explains how data is structured and managed, including examples from your work or a fictional scenario. Your report should show:
+You are part of a team that manages business information systems. Your manager has asked you to write a **report** that explains how data is structured and managed. You should include examples from your real job or create a fictional example.
 
-1. What each type of data structure is and when it would be used  
-2. How databases are designed and built using correct methods  
-3. What steps are taken to keep data reliable and accurate over time  
+Your report should cover:
+
+1. What each type of data structure is and when to use it  
+2. How to design and build a database properly  
+3. How to keep data clean, reliable, and safe over time
 
 ---
 
 ## Report Structure
 
-| Section | Guidance |
-|--------|----------|
-| **1. Introduction** | Provide a short overview of why data structure and database design matter in business. Include the purpose of your report. |
-| **2. Data Structures** | Use subheadings for each structure (e.g., *2.1 Arrays*, *2.2 Trees*). Describe what each one is, where it’s used, and provide an example (real or fictional). |
-| **3. Database Design and Implementation** | Explain how a database is built. Include: <br> - Tables, relationships and **foreign keys** <br> - Choosing the **right data types** <br> - Types of **anomalies** (Insert, Update, Delete) and how to avoid them <br> - An explanation of **normalisation up to 3NF**, with examples |
-| **4. Database Maintenance** | Describe how businesses keep data secure and clean. Include examples of: <br> - Backups and restoring data <br> - Spotting and fixing **dirty data** (incorrect, duplicate, or missing values) |
-| **5. Conclusion** | Summarise the importance of good design and maintenance. Reflect on how well-structured data helps with business efficiency and decision-making. |
+| Section | What to Include |
+|---------|------------------|
+| **1. Introduction** | A short overview of why data structures and databases matter in business. Say what your report will cover. |
+| **2. Data Structures** | Use subheadings like: `2.1 Arrays`, `2.2 Trees`, etc. For each one: explain what it is, when it’s useful, and give an example. |
+| **3. Database Design and Implementation** | Explain how to build a database properly. Cover: <br> - Tables and relationships (**foreign keys**) <br> - Picking the right **data types** <br> - The different **anomalies** (Insert, Update, Delete) and how to stop them <br> - What **normalisation up to 3NF** means and why it matters – use examples |
+| **4. Database Maintenance** | Explain how businesses keep data **safe and clean**. Include examples of: <br> - Backups and how to restore lost data <br> - Spotting and fixing **dirty data** (like wrong, missing, or duplicate values) |
+| **5. Conclusion** | Sum up why good data design and maintenance are important. Explain how well-managed data helps the business make better decisions. |
 
 ---
 
-## Submission Requirements
+## Submission Checklist
 
-- A written report (suggested length: **1,000–1,500 words**)  
-- Diagrams or tables to explain structures and database layouts  
-- Clearly labelled examples or screenshots (if from your own work)  
-- References if external resources are used
-
----
-
-## Assessment Criteria (K6)
-
-| Requirement | Must Be Evidenced |
-|------------|--------------------|
-| Explanation of linear and non-linear data structures | ✅ |
-| Description of database design features (e.g. foreign keys, data types, anomalies) | ✅ |
-| Understanding and application of normalisation (up to 3NF) | ✅ |
-| Discussion of maintenance (e.g. backups, clean vs dirty data) | ✅ |
-| Real or fictional examples used to demonstrate understanding | ✅ |
-| Clear structure and professional presentation | ✅ |
+✅ **Length**: 1,000–1,500 words  
+✅ **Use diagrams or tables** to explain complex ideas (like how a table links to another or how data flows)  
+✅ **Add screenshots or real examples** if you can (make sure they are clear and labelled)  
+✅ **Use your own words** – if you look things up, list the sources at the end  
+✅ **Professional formatting** – use headings, bullet points and short paragraphs  
 
 ---
 
-**Note:** AI tools can be used to check spelling or format your report, but all descriptions and examples must be in your own words. If you use any sources, list them properly at the end.
+## How You’ll Be Marked – K6
+
+| You must show | ✅ Evidence Needed |
+|---------------|-------------------|
+| You understand **linear and non-linear data structures** | ✅ Describe each clearly, with examples |
+| You can explain **database design** (foreign keys, data types, anomalies) | ✅ Give clear examples or diagrams |
+| You understand and can explain **normalisation up to 3NF** | ✅ Use a real or made-up example to show how it works |
+| You know how to **maintain data** (backups, clean data) | ✅ Give examples from your workplace or a made-up one |
+| You use **examples to explain** each point | ✅ Real or fictional |
+| Your report is **well structured and professional** | ✅ Use clear layout and simple language |
